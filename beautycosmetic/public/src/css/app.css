@@ -1,0 +1,100 @@
+/*index.balde.php*/
+.thumbnail img {
+	max-height: 150px;
+}
+
+
+.thumbnail .description{
+	color:#7f7f7f;
+}
+
+
+
+.price{
+	font-weight:bold;
+	font-size: 16px;
+	font-style:italic;
+	
+}
+
+.div{
+	width:340px;
+	height:400px;
+	overflow-y: auto;
+	margin-left:40px;
+	margin-top:10px;
+	margin-right:40px;
+}
+
+
+/*profile.blade.php*/
+
+.delivered{
+	text-decoration: line-through;
+}
+
+
+
+/*Master.blade.php*/
+
+#body{
+	background-color: #FFFFFF;;
+}
+
+#spacediv{
+	height:122px;
+}
+
+
+
+
+/*home.blade.php*/
+.thumb{
+	text-align: center;
+}
+
+.thumb img{
+	
+	padding:0px 50px 0px 50px;
+}
+
+
+.footer{
+	background-color: #000000;
+	color:white;
+	height:250px;
+	padding-top:15px;
+	font-style:italic;
+	margin-bottom:-100px;
+}
+
+.footer h3{
+	color:#F207DE;
+}
+
+.footer h4{
+	color:#0BECA5;
+}
+
+
+.footer h6{
+	padding-top:40px;
+	
+	text-align: center;
+	
+}
+
+
+
+/*header.blade.php [For Website Title]*/
+#title{
+	text-align:center;color:#FFFFFF;
+	font-family:Franklin Gothic Book;
+	font-style:italic;
+}
+
+/*header.blade.php*/
+.nav{
+	font-size:17px;
+	font-family:Matrix;
+}
